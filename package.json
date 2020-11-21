@@ -1,11 +1,7 @@
 {
   "name": "iceman-ui",
-  "version": "0.1.0",
-<<<<<<< HEAD
+  "version": "1.0.1",
   "private": false,
-=======
-  "private": true,
->>>>>>> 532d525cc152bb33ee2fc57329df41cdb0dec3a5
   "main": "lib/index/index.js",
   "types": "types/index.d.ts",
   "scripts": {
